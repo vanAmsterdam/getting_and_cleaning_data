@@ -1,6 +1,6 @@
 The variables used are from the "Human Activity Recognition Using Smartphones Dataset"
 
-Each participant in the study recorded their movements during 6 different activities:
+Each participant in the study recorded their movements during these 6 different activities:
 1 WALKING
 2 WALKING_UPSTAIRS
 3 WALKING_DOWNSTAIRS
